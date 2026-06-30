@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated audio output
+latency-benchmark/scripts/audio_out/
+
+# Benchmark results (raw and reports)
+latency-benchmark/results/raw/
+latency-benchmark/results/reports/
+
+# uv virtualenv
+latency-benchmark/.venv/

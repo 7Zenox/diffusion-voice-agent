@@ -1,0 +1,23 @@
+{"id": "summary_01", "category": "summary", "text": "Summarize in one sentence: Python uses indentation to define code blocks."}
+{"id": "summary_02", "category": "summary", "text": "Summarize in one sentence: The mitochondria is the powerhouse of the cell."}
+{"id": "summary_03", "category": "summary", "text": "Summarize in one sentence: HTTP is a protocol used to transfer data on the web."}
+{"id": "summary_04", "category": "summary", "text": "Summarize in one sentence: Git tracks changes to files over time and enables collaboration."}
+{"id": "summary_05", "category": "summary", "text": "Summarize in one sentence: A database index speeds up queries by creating a lookup structure."}
+{"id": "factual_01", "category": "factual", "text": "Answer in one sentence: What is recursion?"}
+{"id": "factual_02", "category": "factual", "text": "Answer in one sentence: What is a REST API?"}
+{"id": "factual_03", "category": "factual", "text": "Answer in one sentence: What is gradient descent?"}
+{"id": "factual_04", "category": "factual", "text": "Answer in one sentence: What is a hash function?"}
+{"id": "factual_05", "category": "factual", "text": "Answer in one sentence: What is the difference between TCP and UDP?"}
+{"id": "factual_06", "category": "factual", "text": "Answer in one sentence: What is a container in software engineering?"}
+{"id": "rewrite_01", "category": "rewrite", "text": "Rewrite politely: send me the file now."}
+{"id": "rewrite_02", "category": "rewrite", "text": "Rewrite politely: why didn't you finish this already."}
+{"id": "rewrite_03", "category": "rewrite", "text": "Rewrite politely: this code is wrong fix it."}
+{"id": "rewrite_04", "category": "rewrite", "text": "Rewrite politely: I need the report done by end of day no excuses."}
+{"id": "rewrite_05", "category": "rewrite", "text": "Rewrite politely: stop asking me the same question."}
+{"id": "extract_01", "category": "extract", "text": "Extract the city name only: I moved from Pune to Bengaluru last year."}
+{"id": "extract_02", "category": "extract", "text": "Extract the date only: The meeting is scheduled for March 15th, 2025 at noon."}
+{"id": "extract_03", "category": "extract", "text": "Extract the programming language only: She has been coding in Rust for the past two years."}
+{"id": "extract_04", "category": "extract", "text": "Extract the company name only: He recently joined OpenAI as a research engineer."}
+{"id": "extract_05", "category": "extract", "text": "Extract the number only: There were exactly forty-two participants in the study."}
+{"id": "extract_06", "category": "extract", "text": "Extract the email address only: Please contact us at support@example.com for help."}
+{"id": "extract_07", "category": "extract", "text": "Extract the product name only: We are launching ChromaDB version 2.0 next week."}
