@@ -18,5 +18,10 @@ class Settings(BaseSettings):
     warmup_runs: int = 1
     max_output_tokens: int = 32
 
+    # Audio playback backend — use soundfile for WAV I/O, not sounddevice.
+    # sounddevice's blocking stream mode causes 200-400ms latency spikes on
+    # macOS arm64 under load; soundfile + subprocess(afplay) is the approved path.
+    audio_backend: str = "soundfile"
+
 
 settings = Settings()
