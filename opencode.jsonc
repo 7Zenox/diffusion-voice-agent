@@ -1,5 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "compaction": { "reserved": 1004576 },
+  "compaction": { "reserved": 950000 },
   "permission": { "read": "allow", "bash": "allow", "glob": "allow", "grep": "allow", "write": "allow", "edit": "allow" }
 }
